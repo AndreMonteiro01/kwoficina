@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0; 
+}
+
+header img{
+  width: 80px;
+  height: 80px;
+
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  margin: 50px auto;
+}
+
+main {
+  text-align: center;
+}
+
+h1, h2 {
+  line-height: 15px;
+}
+
+footer img {
+  width: 50px;
+  height: 50px;
+}
+
+footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 50px;
+  gap: 20px;
+}
+.localizacao {
+  display: flex;
+  flex-direction: row;
+}
